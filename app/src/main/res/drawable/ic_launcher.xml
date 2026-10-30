@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple globe icon: green disc with meridian and equator lines. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#0B1A12"
+        android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#2FD266"
+        android:pathData="M54,18a36,36 0,1 1,0 72a36,36 0,1 1,0 -72z" />
+    <path android:strokeColor="#0B1A12" android:strokeWidth="3" android:fillColor="#00000000"
+        android:pathData="M18,54h72M54,18c-14,10 -14,62 0,72M54,18c14,10 14,62 0,72M24,38h60M24,70h60" />
+</vector>

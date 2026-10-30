@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio Garden TV</string>
+    <string name="drag_on">Spin mode: arrows turn the globe. Press OK or Back to stop.</string>
+    <string name="drag_off">Pointer mode</string>
+    <string name="press_back_again">Press Back again to exit</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 TV home-screen banner: globe on the left, three "radio wave" arcs on the right. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:fillColor="#0B1A12"
+        android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#2FD266"
+        android:pathData="M110,30a60,60 0,1 1,0 120a60,60 0,1 1,0 -120z" />
+    <path android:strokeColor="#0B1A12" android:strokeWidth="4" android:fillColor="#00000000"
+        android:pathData="M50,90h120M110,30c-24,16 -24,104 0,120M110,30c24,16 24,104 0,120M58,60h104M58,120h104" />
+    <path android:strokeColor="#2FD266" android:strokeWidth="8" android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M196,62a40,40 0,0 1,0 56M220,46a64,64 0,0 1,0 88M244,30a88,88 0,0 1,0 120" />
+</vector>

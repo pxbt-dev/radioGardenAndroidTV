@@ -1,0 +1,14 @@
+# Build output and IDE state
+.gradle/
+.kotlin/
+build/
+app/build/
+.idea/
+*.iml
+
+# Machine-specific SDK path
+local.properties
+
+# APKs pulled from the phone (the official Radio Garden app; not ours to publish)
+apk/
+*.apk

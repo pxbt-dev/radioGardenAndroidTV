@@ -12,3 +12,6 @@ local.properties
 # APKs pulled from the phone (the official Radio Garden app; not ours to publish)
 apk/
 *.apk
+
+# Playwright MCP browser logs/screenshots
+.playwright-mcp/
